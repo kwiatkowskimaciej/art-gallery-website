@@ -45,7 +45,7 @@ Users should be able to:
 ### What I learned
 
 - I learned how to use local CSS properties
-- What is and how to use Leaflet.js
+- What is and how to use Leaflet JS
 - picture html tag
 
 ## Author
